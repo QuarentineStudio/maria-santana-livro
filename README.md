@@ -1,2 +1,3 @@
 # maria-santana-livro
-Livro de Maria de Santa
+
+Este repositório contém os materias para produção do livro de *Maria de Santana*
