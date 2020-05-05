@@ -1,6 +1,6 @@
 % Livro sobre Mãe/Vovó/Amiga Maria
 
-![vovo2](https://user-images.githubusercontent.com/3603111/81080566-3eb66b80-8ec7-11ea-8963-ddc7ca7c1dcd.jpeg){ width=40% } ![](https://user-images.githubusercontent.com/3603111/81078861-25142480-8ec5-11ea-9556-18f0d8bd21dc.jpeg){ width=40% }
+![vovo2](https://user-images.githubusercontent.com/3603111/81080566-3eb66b80-8ec7-11ea-8963-ddc7ca7c1dcd.jpeg){ width=40% } ![](https://user-images.githubusercontent.com/3603111/81078861-25142480-8ec5-11ea-9556-18f0d8bd21dc.jpeg){ width=30% }
 
 # Convite
 Estamos convidando você, que conhece (mãe/vovó/amiga) Maria, a escrever sobre ela para auxiliar na produção do seu livro.
@@ -11,6 +11,10 @@ Que tipo de histórias estamos procurando?
 - histórias com ela
 - histórias sobre como ela influenciou na sua vida
 
+## Observações
+
+- O livro será no formato **digital** (_não será impresso_)
+- **Não há limites de palavras**
 
 # Onde enviar as histórias
 
@@ -24,6 +28,8 @@ Textos maiores
 :   [Utilize este formulário](https://forms.gle/MT4B6yLgnDWiVFgX7) para enviar história ou depoimento maior (será necessário anexar arquivo através de e-mail do google).
 
 Você pode enviar várias histórias diferentes (responder várias vezes).
+
+
 
 # Dúvidas?
 
