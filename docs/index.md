@@ -1,8 +1,6 @@
 % Livro sobre Mãe/Vovó/Amiga Maria
 
-![](https://user-images.githubusercontent.com/3603111/81078861-25142480-8ec5-11ea-9556-18f0d8bd21dc.jpeg){ width=15% }
-
-
+![](https://user-images.githubusercontent.com/3603111/81078861-25142480-8ec5-11ea-9556-18f0d8bd21dc.jpeg){ width=40% }
 
 # Convite
 Estamos convidando você, que conhece (mãe/vovó/amiga) Maria, a escrever sobre ela para auxiliar na produção do seu livro.
