@@ -16,6 +16,7 @@ Que tipo de histórias estamos procurando?
 - O livro será no formato **digital** (_não será impresso_)
 - **Não há limites de palavras**
 - Enviem as histórias separadas, uma por vez.
+- Fotos são bem vindas
 
 # Onde enviar as histórias
 
@@ -29,8 +30,6 @@ Textos maiores
 :   [Utilize este formulário](https://forms.gle/MT4B6yLgnDWiVFgX7) para enviar história ou depoimento maior (será necessário anexar arquivo através de e-mail do google).
 
 Você pode enviar várias histórias diferentes (responder várias vezes).
-
-
 
 # Dúvidas?
 
