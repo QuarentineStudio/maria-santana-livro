@@ -15,6 +15,7 @@ Que tipo de histórias estamos procurando?
 
 - O livro será no formato **digital** (_não será impresso_)
 - **Não há limites de palavras**
+- Enviem as histórias separadas, uma por vez.
 
 # Onde enviar as histórias
 
