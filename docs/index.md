@@ -34,12 +34,18 @@ Você pode enviar várias histórias diferentes (responder várias vezes).
 
 # Dúvidas?
 
-Em caso de dúvidas, acesse o [grupo no WhatsApp](https://chat.whatsapp.com/CgVJiQy3BxIJjNMJrErKEw)
+Em caso de dúvidas, acesse o [grupo Livro de Maria no WhatsApp](https://chat.whatsapp.com/CgVJiQy3BxIJjNMJrErKEw)
 
 # Sobre a produção
 
-| Item               | Informação        |
-|--------------------|:-----------------:|
-| Início da Produção | 5 de Maio de 2020 |
-| Organizador| Eduardo de Santana Medeiros |
-| WhatsApp | 83 98108-1977 |
+Início da Produção
+
+:   5 de Maio de 2020
+
+Organizador
+
+:   Eduardo de Santana Medeiros
+
+WhatsApp
+
+:   83 98108-1977
