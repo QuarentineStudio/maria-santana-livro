@@ -4,7 +4,7 @@
 
 
 
-## Convite
+# Convite
 Estamos convidando você, que conhece (mãe/vovó/amiga) Maria, a escrever sobre ela para auxiliar na produção do seu livro.
 
 Que tipo de histórias estamos procurando?
@@ -12,7 +12,9 @@ Que tipo de histórias estamos procurando?
 - histórias sobre ela
 - histórias com ela
 - histórias sobre como ela influenciou na sua vida
-- Onde enviar as histórias
+
+
+# Onde enviar as histórias
 
 História pequena
 
@@ -24,11 +26,11 @@ Textos maiores
 :   [Utilize este formulário](https://forms.gle/MT4B6yLgnDWiVFgX7) para enviar histórias ou depoimentos maiores (será necessário anexar arquivo através de e-mail do google).
 
 
-## Dúvidas?
+# Dúvidas?
 
 Em caso de dúvidas, acesse o [grupo no WhatsApp](https://chat.whatsapp.com/CgVJiQy3BxIJjNMJrErKEw)
 
-## Sobre a produção
+# Sobre a produção
 
 | Item               | Informação        |
 |--------------------|:-----------------:|
