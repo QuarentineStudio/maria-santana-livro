@@ -16,13 +16,14 @@ Que tipo de histórias estamos procurando?
 
 História pequena
 
-:   [Utilize este link](https://forms.gle/tC2NV9MQ1Lz9F4eJ7) para enviar história ou depoimento pequenos
+:   [Utilize este link](https://forms.gle/tC2NV9MQ1Lz9F4eJ7) para enviar história ou depoimento pequeno
 
 
 Textos maiores
 
-:   [Utilize este formulário](https://forms.gle/MT4B6yLgnDWiVFgX7) para enviar histórias ou depoimentos maiores (será necessário anexar arquivo através de e-mail do google).
+:   [Utilize este formulário](https://forms.gle/MT4B6yLgnDWiVFgX7) para enviar história ou depoimento maior (será necessário anexar arquivo através de e-mail do google).
 
+Você pode enviar várias histórias diferentes (responder várias vezes).
 
 # Dúvidas?
 
