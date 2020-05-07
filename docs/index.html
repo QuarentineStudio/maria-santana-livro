@@ -50,11 +50,12 @@
 
       <h1>Autores do livro</h1>
       <p>Confira no gráfico a seguir os autores que já submeteram seus textos:</p>
-      <div id="observablehq-cb976abe"></div>
+
+      <div id="observablehq-f52db757"></div>
       <script type="module">
       import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
       import define from "https://api.observablehq.com/@edusantana/autores-do-livro-de-maria.js?v=3";
-      const inspect = Inspector.into("#observablehq-cb976abe");
+      const inspect = Inspector.into("#observablehq-f52db757");
       (new Runtime).module(define, name => (name === "chart") && inspect());
       </script>
 
