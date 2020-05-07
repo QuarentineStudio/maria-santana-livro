@@ -1,0 +1,105 @@
+{
+  "name": "Autores do livro",
+  "children": [
+    {
+      "name": "Marta",
+      "children": [
+        {
+          "name": "Marta",
+          "value": 1
+        },
+        {
+          "name": "Andréia",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Bernadete",
+      "children": [
+        {
+          "name": "Paty",
+          "value": 1
+        },
+        {
+          "name": "Dudu",
+          "value": 1
+        },
+        {
+          "name": "Bernadete",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Amigos",
+      "children": [
+        {
+          "name": "Samira",
+          "value": 141
+        }
+      ]
+    },
+    {
+      "name": "Lourdes",
+      "children": [
+        {
+          "name": "Wagner",
+          "value": 1
+        },
+        {
+          "name": "Lourdes",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Tecla",
+      "children": [
+        {
+          "name": "Alexandre",
+          "value": 1
+        },
+        {
+          "name": "Tico",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Feliciano",
+      "children": [
+        {
+          "name": "Márcia",
+          "value": 362
+        },
+        {
+          "name": "Feciliciano",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "José Santana",
+      "children": [
+        {
+          "name": "Jarbson",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "name": "Cristina",
+      "children": [
+        {
+          "name": "Cristina",
+          "value": 1
+        },
+        {
+          "name": "Victor",
+          "value": 1
+        }
+      ]
+    }
+  ]
+}
