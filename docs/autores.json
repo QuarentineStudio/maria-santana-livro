@@ -3,7 +3,16 @@
   "children": [
     {
       "name": "Bernadete",
-      "value": 3209
+      "children": [
+        {
+          "name": "Dudu",
+          "value": 105
+        },
+        {
+          "name": "Bernadete",
+          "value": 3213
+        }
+      ]
     },
     {
       "name": "Amigos",
