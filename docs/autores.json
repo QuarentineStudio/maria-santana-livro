@@ -2,6 +2,10 @@
   "name": "Autores do livro",
   "children": [
     {
+      "name": "Bernadete",
+      "value": 3209
+    },
+    {
       "name": "Amigos",
       "children": [
         {
