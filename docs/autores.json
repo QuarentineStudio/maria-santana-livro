@@ -2,15 +2,36 @@
   "name": "Autores do livro",
   "children": [
     {
+      "name": "Dora",
+      "children": [
+        {
+          "name": "Rafael",
+          "value": 167
+        },
+        {
+          "name": "Raquel",
+          "value": 118
+        },
+        {
+          "name": "Dora",
+          "value": 939
+        },
+        {
+          "name": "Jarbas",
+          "value": 4
+        }
+      ]
+    },
+    {
       "name": "Bernadete",
       "children": [
         {
           "name": "Dudu",
-          "value": 105
+          "value": 300
         },
         {
           "name": "Bernadete",
-          "value": 3213
+          "value": 3215
         }
       ]
     },
@@ -19,7 +40,33 @@
       "children": [
         {
           "name": "Samira",
-          "value": 141
+          "value": 145
+        }
+      ]
+    },
+    {
+      "name": "Lourdes",
+      "children": [
+        {
+          "name": "Wagner",
+          "value": 236
+        },
+        {
+          "name": "Lourdes",
+          "value": 2426
+        }
+      ]
+    },
+    {
+      "name": "Tecla",
+      "children": [
+        {
+          "name": "Alexandre",
+          "value": 876
+        },
+        {
+          "name": "Tecla",
+          "value": 10
         }
       ]
     },
@@ -28,9 +75,35 @@
       "children": [
         {
           "name": "Márcia",
-          "value": 362
+          "value": 368
         }
       ]
+    },
+    {
+      "name": "Nezinho (Irmão)",
+      "children": [
+        {
+          "name": "Benedita",
+          "value": 52
+        },
+        {
+          "name": "Penhinha",
+          "value": 174
+        }
+      ]
+    },
+    {
+      "name": "João (Irmão)",
+      "children": [
+        {
+          "name": "Silvinha",
+          "value": 314
+        }
+      ]
+    },
+    {
+      "name": "Lúcia",
+      "value": 2323
     }
   ]
 }
