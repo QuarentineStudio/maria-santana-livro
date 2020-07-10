@@ -1,5 +1,4 @@
-## Rafael Santana
-
+## Rafael
 
 No último ano em que Vovó Maria estava aqui entre nós, eu tinha apenas 13 anos, então como faz muito tempo e na época eu era bem dizer uma criança ou adolescente, não tenho tanta história pra contar.
 

@@ -2,7 +2,9 @@
 
 ## Lourdes
 
-### Mamãe, Exemplo de Mulher, Esposa, Mãe, Avó, Bisavó, amiga! Simplificando: MAMÃE, EXEMPLO DE MULHER CRISTÃ
+### Mamãe, Exemplo de Mulher, Esposa, Mãe, Avó, Bisavó, amiga!
+
+**Simplificando: MAMÃE, EXEMPLO DE MULHER CRISTÃ**
 
 ![MARIA DE LOURDES SANTANA DE ARAÚJO, Casada com Walter de Araújo, Filhos: **Fábio Augusto Santana de Araújo**, (casado com Kelma Silva de Araújo -- Filhos: Fábio Lucas Silva de Araújo e Karine Silva de Araújo), **Walber Santana de Araújo**, (Casado com Aline Kelly dos Santos Santana de Araújo -- Filhos: Isabelle dos Santos Santana de Araújo e Iago dos Santos Santana de Araújo), **Wagner Santana de Araújo** (Casado com Elziellen Hêmilie Evangelista de Araújo -- Filho: Arthur Wolfgang Nóbrega de Araújo) e **Walter Santana de Araújo**, casado com Sheila Luna de Luna de Santana.](img/lourdes/image1.jpeg){width="2.90625in" height="2.90625in"}
 

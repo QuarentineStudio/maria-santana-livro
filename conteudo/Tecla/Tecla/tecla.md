@@ -1,4 +1,4 @@
-# Família de Tecla (filha)
+# Família de Tecla
 
 ## Tecla
 
@@ -37,7 +37,7 @@ Eles contrataram vários empregados, pois eram muitos os fregueses.
 
 A família também foi crescendo. Todos os dias, à hora do almoço,  Pai e Mamãe fechavam o Bar e a Mercearia, para o almoço, que era feito por mamãe. No próprio local tinha duas salas que ficavam na parte de trás. Alí mammãe preparava os alimentos e despachava na Mercearia.
 
-Mamãe gostava de gatos, e tinha um loirinho que se chamava @Marinluiro. Era de estimação. Um da ele se engasgou com a espinha do peixe e faleceu, mamãe chorou muito. Nós, os filhos e amigos fizemos o enterro do gato.Arrumamos uma caixa com flores e enterramos ao lado da @Levada, que era um Rio bem próximo.
+Mamãe gostava de gatos, e tinha um loirinho que se chamava Marinheiro. Era de estimação. Um dia, ele se engasgou com a espinha do peixe e faleceu, mamãe chorou muito. Nós, os filhos e amigos fizemos o enterro do gato.  Arrumamos uma caixa com flores e enterramos ao lado da @Levada, que era um Rio bem próximo.
 
 Mamãe gostava muito de andar perfumada, o perfume que ela usava tinha o nome de Francesa, o pó compacto também tinha o mesmo nome, muito usado na época.
 

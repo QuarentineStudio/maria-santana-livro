@@ -1,13 +1,7 @@
----
-documentclass: scrbook
-toc-depth: 2
-toc: 1
-lang: pt-BR
----
 
-# Dudu
+## Dudu
 
-## Vovó Maria
+### Vovó Maria
 
 Vovó Maria, é assim que me refiro a ela.
 
@@ -21,9 +15,7 @@ Como neto, a presença de vovó costumava está associada a *cozinha*, *sala*, *
 
 Como gordinho que eu *era*, a casa de vovó tinha uma atração: uma boboniere em formato de casinha, aquilo me encantava.
 
-### Perfume alfazema
-
-### Reencontro no além
+### Reencontro
 
 Na época, eu estava casado e morando fora da casa dos meus pais. Vovô já tinha falecido há poucos anos.
 

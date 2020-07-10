@@ -1,5 +1,5 @@
 # Família de Dora
-## Dora (filha)
+## Dora
 
 ### Lembranças de minha querida mãezinha e meu pai querido
 

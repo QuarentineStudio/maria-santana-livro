@@ -9,7 +9,7 @@ end
 
 file 'previa.pdf' do
   Dir.chdir(PASTA_RAIZ) do
-    sh %Q(pandoc -V documentclass:scrbook -V papersize:a5paper #{ARQUIVOS.map{|f| "'#{f}'"}.join(" ")} -o previa.pdf)
+    sh %Q(pandoc --pdf-engine=xelatex -V documentclass:scrbook #{ARQUIVOS.map{|f| "'#{f}'"}.join(" ")} -o previa.pdf)
   end
 end
 
